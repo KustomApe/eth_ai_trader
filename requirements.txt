@@ -1,0 +1,9 @@
+ccxt
+pandas
+numpy
+scikit-learn
+tensorflow
+anthropic
+streamlit
+plotly
+python-dotenv
